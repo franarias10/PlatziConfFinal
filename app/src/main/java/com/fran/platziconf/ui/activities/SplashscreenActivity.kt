@@ -1,4 +1,4 @@
-package com.fran.platziconf.ui
+package com.fran.platziconf.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

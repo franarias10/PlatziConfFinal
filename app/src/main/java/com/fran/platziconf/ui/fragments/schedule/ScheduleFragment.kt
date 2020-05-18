@@ -1,4 +1,4 @@
-package com.fran.platziconf.ui
+package com.fran.platziconf.ui.fragments.schedule
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
